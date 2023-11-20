@@ -1,0 +1,21 @@
+{
+  "name": "glitch-discord-bot",
+  "version": "0.0.0",
+  "description": "code by emeral",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^13.16.x",
+    "moment": "^2.29.4",
+    "util": "^0.12.5",
+    "axios": "^1.5.1",
+    "fs": "^0.0.2",
+    "express": "^4.18.2",
+    "config.json": "^0.0.4"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
